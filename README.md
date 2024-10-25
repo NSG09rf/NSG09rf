@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nisarg PateL</h1>
 <h3 align="center">A passionate Renewable energy enthusiast.</h3>
 
